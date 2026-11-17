@@ -9,7 +9,7 @@ This folder is the download page for the desktop app. The installer is the GitHu
 | File | `CodeAK-Setup.exe` |
 | Version | 1.0.0 |
 | Architecture | x64 |
-| SHA-256 | `039475e7b9ce284ebfdd6f24770ff9e91e3941a09187e859ec2e800df004493a` |
+| SHA-256 | `78849fd8a50d9d00f7ff155824ec56d9ab4f17cb1cf20740dd2b0e6c6aa7960b` |
 | Signed | No |
 
 ## Run it
